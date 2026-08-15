@@ -1,0 +1,12 @@
+{
+  "name": "youtube-music-rpc-server",
+  "version": "1.0.0",
+  "description": "Server for YouTube Music RPC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@xhayper/discord-rpc": "^1.2.0",
+    "ws": "^8.18.3"
+  }
+}
